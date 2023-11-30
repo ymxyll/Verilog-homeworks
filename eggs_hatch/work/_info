@@ -1,0 +1,172 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dh:/SparkRoad-V-master/sd_help/finally/eggs_hatch
+vcounter
+!s110 1701265093
+!i10b 1
+!s100 ZhVBOM0f?hX8F^1cRn9jO0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I[=@_LkNV7<jl1P99^?n=`1
+R0
+w1701265093
+8h:\SparkRoad-V-master\sd_help\finally\eggs_hatch\counter.v
+Fh:\SparkRoad-V-master\sd_help\finally\eggs_hatch\counter.v
+!i122 61
+L0 1 49
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OL;L;2020.4;71
+r1
+!s85 0
+31
+!s108 1701265093.000000
+!s107 h:\SparkRoad-V-master\sd_help\finally\eggs_hatch\counter.v|
+!s90 -nologo|-work|work|h:\SparkRoad-V-master\sd_help\finally\eggs_hatch\counter.v|
+!i113 0
+Z4 o-nologo -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+vdebounce
+!s110 1701265098
+!i10b 1
+!s100 eiOCgnc[KnXYPhbTFQ86=1
+R1
+I1ill;1XM6nMN^?J8ecmOW2
+R0
+w1701252395
+8h:\SparkRoad-V-master\sd_help\finally\eggs_hatch\debounce.v
+Fh:\SparkRoad-V-master\sd_help\finally\eggs_hatch\debounce.v
+!i122 62
+L0 1 23
+R2
+R3
+r1
+!s85 0
+31
+!s108 1701265098.000000
+!s107 h:\SparkRoad-V-master\sd_help\finally\eggs_hatch\debounce.v|
+!s90 -nologo|-work|work|h:\SparkRoad-V-master\sd_help\finally\eggs_hatch\debounce.v|
+!i113 0
+R4
+R5
+vdisp_show
+!s110 1701187633
+!i10b 1
+!s100 K0;=dzY:bZ_[<Jh@G0m>C3
+R1
+I50dF5R3WnKnn<M9@IVJ]22
+R0
+w1701187633
+8h:\SparkRoad-V-master\sd_help\finally\eggs_hatch\disp_show.v
+Fh:\SparkRoad-V-master\sd_help\finally\eggs_hatch\disp_show.v
+!i122 56
+L0 1 205
+R2
+R3
+r1
+!s85 0
+31
+!s108 1701187633.000000
+!s107 h:\SparkRoad-V-master\sd_help\finally\eggs_hatch\disp_show.v|
+!s90 -nologo|-work|work|h:\SparkRoad-V-master\sd_help\finally\eggs_hatch\disp_show.v|
+!i113 0
+R4
+R5
+vdz_show
+!s110 1701274197
+!i10b 1
+!s100 kj5RA[RfY?=Q5lkJ2LJkg0
+R1
+I;YlAiYSBd5V?A><fRVQCP1
+R0
+w1701274197
+8h:\SparkRoad-V-master\sd_help\finally\eggs_hatch\dz_show.v
+Fh:\SparkRoad-V-master\sd_help\finally\eggs_hatch\dz_show.v
+!i122 100
+L0 1 246
+R2
+R3
+r1
+!s85 0
+31
+!s108 1701274197.000000
+!s107 h:\SparkRoad-V-master\sd_help\finally\eggs_hatch\dz_show.v|
+!s90 -nologo|-work|work|h:\SparkRoad-V-master\sd_help\finally\eggs_hatch\dz_show.v|
+!i113 0
+R4
+R5
+vdz_transfer
+!s110 1701274224
+!i10b 1
+!s100 ]eXkb:1g8V_SUd1=P1<4=1
+R1
+IDMLSGR3=SO?GzHciE8YgA3
+R0
+w1701274224
+8h:\SparkRoad-V-master\sd_help\finally\eggs_hatch\dz_transfer.v
+Fh:\SparkRoad-V-master\sd_help\finally\eggs_hatch\dz_transfer.v
+!i122 101
+L0 1 63
+R2
+R3
+r1
+!s85 0
+31
+!s108 1701274224.000000
+!s107 h:\SparkRoad-V-master\sd_help\finally\eggs_hatch\dz_transfer.v|
+!s90 -nologo|-work|work|h:\SparkRoad-V-master\sd_help\finally\eggs_hatch\dz_transfer.v|
+!i113 0
+R4
+R5
+veggs_hatch_top
+!s110 1701301742
+!i10b 1
+!s100 KTjzQ?ZWe@d]=R;@NYDam0
+R1
+IcN]eNbh:3M=gjN1>bW[<D2
+R0
+w1701301741
+8h:\SparkRoad-V-master\sd_help\finally\eggs_hatch\eggs_hatch_top.v
+Fh:\SparkRoad-V-master\sd_help\finally\eggs_hatch\eggs_hatch_top.v
+!i122 115
+L0 2 185
+R2
+R3
+r1
+!s85 0
+31
+!s108 1701301742.000000
+!s107 h:\SparkRoad-V-master\sd_help\finally\eggs_hatch\eggs_hatch_top.v|
+!s90 -nologo|-work|work|h:\SparkRoad-V-master\sd_help\finally\eggs_hatch\eggs_hatch_top.v|
+!i113 0
+R4
+R5
+vget_random
+!s110 1701269430
+!i10b 1
+!s100 E1?O5ONKZVcGTF[QYECKX2
+R1
+IN2`BNa94OSG``77LQ44Ug2
+R0
+w1701269430
+8h:\SparkRoad-V-master\sd_help\finally\eggs_hatch\get_random.v
+Fh:\SparkRoad-V-master\sd_help\finally\eggs_hatch\get_random.v
+!i122 69
+L0 1 64
+R2
+R3
+r1
+!s85 0
+31
+!s108 1701269430.000000
+!s107 h:\SparkRoad-V-master\sd_help\finally\eggs_hatch\get_random.v|
+!s90 -nologo|-work|work|h:\SparkRoad-V-master\sd_help\finally\eggs_hatch\get_random.v|
+!i113 0
+R4
+R5

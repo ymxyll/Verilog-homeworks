@@ -1,0 +1,264 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dh:/SparkRoad-V-master/sd_help/finally/count_game
+vbeep_beep
+!s110 1701100430
+!i10b 1
+!s100 <j9EP[GF5:=mA4_?VUW`a2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I<bi@8R:J@0K7TfZ=A8QQS0
+Z2 dh:/SparkRoad-V-master/sd_help/finally/count_game/count_game
+w1701100430
+8h:\SparkRoad-V-master\sd_help\finally\count_game\count_game\beep_beep.v
+Fh:\SparkRoad-V-master\sd_help\finally\count_game\count_game\beep_beep.v
+!i122 292
+L0 1 72
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OL;L;2020.4;71
+r1
+!s85 0
+31
+!s108 1701100430.000000
+!s107 h:\SparkRoad-V-master\sd_help\finally\count_game\count_game\beep_beep.v|
+!s90 -nologo|-work|work|h:\SparkRoad-V-master\sd_help\finally\count_game\count_game\beep_beep.v|
+!i113 0
+Z5 o-nologo -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 tCvgOpt 0
+vbeep_beep_tb
+!s110 1700750007
+!i10b 1
+!s100 ni9ZK4HRK=VDSdhT?`1Zh2
+R1
+IR4YnmN`]EIY:Q6Y:gKn1<0
+R0
+w1700750007
+8h:\SparkRoad-V-master\sd_help\finally\count_game\testbench\beep_beep_tb.v
+Fh:\SparkRoad-V-master\sd_help\finally\count_game\testbench\beep_beep_tb.v
+!i122 94
+Z7 L0 2 34
+R3
+R4
+r1
+!s85 0
+31
+!s108 1700750007.000000
+!s107 h:\SparkRoad-V-master\sd_help\finally\count_game\testbench\beep_beep_tb.v|
+!s90 -nologo|-work|work|h:\SparkRoad-V-master\sd_help\finally\count_game\testbench\beep_beep_tb.v|
+!i113 0
+R5
+R6
+vcounter
+!s110 1701135701
+!i10b 1
+!s100 zO8@R1z10=KGaU>Z7A`f@2
+R1
+IYz]Z53Gh5j8:<;lMOXaL^3
+R0
+w1701015223
+8h:\SparkRoad-V-master\sd_help\finally\count_game\counter.v
+Fh:\SparkRoad-V-master\sd_help\finally\count_game\counter.v
+!i122 293
+L0 1 68
+R3
+R4
+r1
+!s85 0
+31
+!s108 1701135701.000000
+!s107 h:\SparkRoad-V-master\sd_help\finally\count_game\counter.v|
+!s90 -nologo|-work|work|h:\SparkRoad-V-master\sd_help\finally\count_game\counter.v|
+!i113 0
+R5
+R6
+vdisp_show
+!s110 1701012778
+!i10b 1
+!s100 6<zK?WzzDIGE_ezejd8RG1
+R1
+Io<f>gWiY0Z8XaP<doYJ^j0
+R2
+w1700750552
+8h:\SparkRoad-V-master\sd_help\finally\count_game\count_game\disp_show.v
+Fh:\SparkRoad-V-master\sd_help\finally\count_game\count_game\disp_show.v
+!i122 199
+L0 1 27
+R3
+R4
+r1
+!s85 0
+31
+!s108 1701012778.000000
+!s107 h:\SparkRoad-V-master\sd_help\finally\count_game\count_game\disp_show.v|
+!s90 -nologo|-work|work|h:\SparkRoad-V-master\sd_help\finally\count_game\count_game\disp_show.v|
+!i113 0
+R5
+R6
+vdz_counter_tb
+!s110 1700752896
+!i10b 1
+!s100 _OzV1Ek26X:RZS3iC^?]C2
+R1
+IX[Q7T9EGmV1LfM@<3Zdm80
+R0
+w1700752896
+8h:\SparkRoad-V-master\sd_help\finally\count_game\testbench\dz_counter_tb.v
+Fh:\SparkRoad-V-master\sd_help\finally\count_game\testbench\dz_counter_tb.v
+!i122 165
+L0 2 49
+R3
+R4
+r1
+!s85 0
+31
+!s108 1700752896.000000
+!s107 h:\SparkRoad-V-master\sd_help\finally\count_game\testbench\dz_counter_tb.v|
+!s90 -nologo|-work|work|h:\SparkRoad-V-master\sd_help\finally\count_game\testbench\dz_counter_tb.v|
+!i113 0
+R5
+R6
+vdz_show
+!s110 1701096005
+!i10b 1
+!s100 PKV5VX<dN>cmjM<SXj9J82
+R1
+ITzmTLFMPkz5Qhn3;zgSO=0
+R2
+w1701096005
+8h:\SparkRoad-V-master\sd_help\finally\count_game\count_game\dz_show.v
+Fh:\SparkRoad-V-master\sd_help\finally\count_game\count_game\dz_show.v
+!i122 279
+L0 1 360
+R3
+R4
+r1
+!s85 0
+31
+!s108 1701096005.000000
+!s107 h:\SparkRoad-V-master\sd_help\finally\count_game\count_game\dz_show.v|
+!s90 -nologo|-work|work|h:\SparkRoad-V-master\sd_help\finally\count_game\count_game\dz_show.v|
+!i113 0
+R5
+R6
+vgame_top
+!s110 1701137017
+!i10b 1
+!s100 _beNZk_fDoobzdElM?OB>3
+R1
+I<`[4D]2?n29:WNIBU=];J0
+R0
+w1701137017
+8h:\SparkRoad-V-master\sd_help\finally\count_game\game_top.v
+Fh:\SparkRoad-V-master\sd_help\finally\count_game\game_top.v
+!i122 296
+L0 1 309
+R3
+R4
+r1
+!s85 0
+31
+!s108 1701137017.000000
+!s107 h:\SparkRoad-V-master\sd_help\finally\count_game\game_top.v|
+!s90 -nologo|-work|work|h:\SparkRoad-V-master\sd_help\finally\count_game\game_top.v|
+!i113 0
+R5
+R6
+vget_random
+!s110 1701012606
+!i10b 1
+!s100 nEbDiQS1`YJgzG`J18X<z2
+R1
+IXaZfFAWj70iO^FC?2Ok2e2
+R2
+w1700754362
+8h:\SparkRoad-V-master\sd_help\finally\count_game\count_game\get_random.v
+Fh:\SparkRoad-V-master\sd_help\finally\count_game\count_game\get_random.v
+!i122 196
+L0 1 59
+R3
+R4
+r1
+!s85 0
+31
+!s108 1701012606.000000
+!s107 h:\SparkRoad-V-master\sd_help\finally\count_game\count_game\get_random.v|
+!s90 -nologo|-work|work|h:\SparkRoad-V-master\sd_help\finally\count_game\count_game\get_random.v|
+!i113 0
+R5
+R6
+vget_random_tb
+!s110 1701091715
+!i10b 1
+!s100 1m>HodK[4nXOb<L>gePba2
+R1
+IEFhaB;KCJKHUI5j[K[JkP0
+R2
+w1700745093
+8h:\SparkRoad-V-master\sd_help\finally\count_game\count_game\testbench\get_random_tb.v
+Fh:\SparkRoad-V-master\sd_help\finally\count_game\count_game\testbench\get_random_tb.v
+!i122 244
+R7
+R3
+R4
+r1
+!s85 0
+31
+!s108 1701091715.000000
+!s107 h:\SparkRoad-V-master\sd_help\finally\count_game\count_game\testbench\get_random_tb.v|
+!s90 -nologo|-work|work|h:\SparkRoad-V-master\sd_help\finally\count_game\count_game\testbench\get_random_tb.v|
+!i113 0
+R5
+R6
+vhalf_clk
+!s110 1700748135
+!i10b 1
+!s100 Hd4<_SS?KgNDad2S1A5aL3
+R1
+IZ]:ES;RzWanOU[PEZdZbO1
+R0
+w1700748135
+8h:\SparkRoad-V-master\sd_help\finally\count_game\half_clk.v
+Fh:\SparkRoad-V-master\sd_help\finally\count_game\half_clk.v
+!i122 39
+L0 2 32
+R3
+R4
+r1
+!s85 0
+31
+!s108 1700748135.000000
+!s107 h:\SparkRoad-V-master\sd_help\finally\count_game\half_clk.v|
+!s90 -nologo|-work|work|h:\SparkRoad-V-master\sd_help\finally\count_game\half_clk.v|
+!i113 0
+R5
+R6
+vtop_tb
+!s110 1701098139
+!i10b 1
+!s100 I?3e]_aOASH3aTYBAeK9]0
+R1
+IGf@ezh_Eo^:HJZ?5O1X_K2
+R2
+w1701098139
+8h:\SparkRoad-V-master\sd_help\finally\count_game\count_game\testbench\top_tb.v
+Fh:\SparkRoad-V-master\sd_help\finally\count_game\count_game\testbench\top_tb.v
+!i122 286
+L0 2 54
+R3
+R4
+r1
+!s85 0
+31
+!s108 1701098139.000000
+!s107 h:\SparkRoad-V-master\sd_help\finally\count_game\count_game\testbench\top_tb.v|
+!s90 -nologo|-work|work|h:\SparkRoad-V-master\sd_help\finally\count_game\count_game\testbench\top_tb.v|
+!i113 0
+R5
+R6

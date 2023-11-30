@@ -1,0 +1,2 @@
+state和rand_num控制dz_show
+state控制disp_show

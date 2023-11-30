@@ -1,0 +1,7 @@
+module counter(
+    input clk, rst,
+    output reg [7:0] row, colr, colg;
+);
+
+
+endcase

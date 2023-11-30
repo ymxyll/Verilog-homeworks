@@ -1,0 +1,6 @@
+module counter(
+    input 
+);
+
+
+endcase
